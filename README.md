@@ -1,2 +1,2 @@
 # HighLife-Website
-Issue tracker for the HighLife Roleplay website
+You can submit issues and feature requests here for anything HighLife website related.
